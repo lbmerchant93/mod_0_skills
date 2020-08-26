@@ -1,0 +1,9 @@
+var food = "Peach";
+var is_delicious = true;
+food = "Apple";
+var num2 = 9;
+var num7 = 5;
+var quotient = num7 / num2;
+var songs =["Angels", "Swimming", "Self Care"];
+let songs = songs.shift();
+var characterInFood = food.length;
