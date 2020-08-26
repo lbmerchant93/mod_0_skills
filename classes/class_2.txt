@@ -1,0 +1,17 @@
+Class:
+
+Table
+
+Attributes:
+
+isAvailable = (boolean)
+numberOfSeatsOpen = (integer)
+serverName = ("string")
+isDirty = (boolean)
+
+Methods:
+
+seatGuest: (change the availability from true to false)
+breakChair: (change number of seats at table that are open)
+serverFired: (change name of server who has that table)
+cleanTable: (change the dirty table to false by cleaning)
