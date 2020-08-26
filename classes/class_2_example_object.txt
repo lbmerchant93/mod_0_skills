@@ -1,0 +1,17 @@
+Instance:
+
+table1
+
+Attributes:
+
+isAvailable = true
+numberOfSeatsOpen = 4
+serverName = "Lucas"
+isDirty = true
+
+Methods:
+
+seatGuest: isAvailable = false
+breakChair: numberOfSeatsOpen = 3
+serverFired: serverName = "Bob"
+cleanTable: isDirty = false
