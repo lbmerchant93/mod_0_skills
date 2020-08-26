@@ -1,0 +1,17 @@
+Class:
+
+Wine
+
+Attributes:
+
+aroma = ('string')
+alcoholPercentage = (float)
+servedRoomTemp = (boolean)
+screwTop = (boolean)
+
+Methods:
+
+addFruit (change the aroma given off due to adding fruit contents)
+addIce (change the alcoholPercentage because it will be diluted from the melting ice)
+chillFirst (change the temperature of the wine so servedRoomTemp becomes false if was true)
+recork (change the screwTop to false because we put a cork in it since we lost the top somehow)
